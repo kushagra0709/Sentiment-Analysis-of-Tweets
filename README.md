@@ -1,7 +1,7 @@
 # Sentiment-Analysis-of-Tweets
 Performing Sentiment Analysis on a database of tweets using various vectorizers and methods
 
-The .ipynb file has been created using jupyter notebook and the first block of code needs to be adjusted for the path where the user has stored the database file
+*The .ipynb file has been created using jupyter notebook and the first block of code needs to be adjusted for the path where the user has stored the database file*
 
 Count Vectorizer- It assigns every word with an index and maps it ti the word count
 
